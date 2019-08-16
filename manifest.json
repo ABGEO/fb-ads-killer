@@ -5,6 +5,7 @@
   "description": "Hide sponsored posts on facebook.com",
   "author": "Temuri Takalandze (ABGEO) <takalandzet@gmail.com>",
   "icons": {
+    "128": "icons/icon-128.png",
     "256": "icons/icon-256.png"
   },
   "permissions": [
