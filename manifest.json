@@ -9,12 +9,12 @@
     "256": "icons/icon-256.png"
   },
   "permissions": [
-    "https://web.facebook.com/*"
+    "*://*.facebook.com/*"
   ],
   "content_scripts": [
     {
       "matches": [
-        "https://web.facebook.com/"
+        "*://*.facebook.com/*"
       ],
       "js": [
         "scripts/background.js"
