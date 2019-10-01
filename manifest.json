@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "FB ADS Killer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Hide sponsored posts on facebook.com",
   "author": "Temuri Takalandze (ABGEO) <takalandzet@gmail.com>",
   "icons": {
